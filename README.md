@@ -1,8 +1,7 @@
 # EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV
 
-**Name:** NAVASRI B  
-**Register Number:** 212225230196
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+### Name:NAVASRI B  
+### Register Number: 212225230196
 
 ## AIM
 
