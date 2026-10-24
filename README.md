@@ -324,33 +324,33 @@ plt.axis("on")
 
 ## OUTPUT
 
-#The following outputs are obtained:
+# The following outputs are obtained:
 
-# 1. Original image displayed using OpenCV and Matplotlib.
+### 1. Original image displayed using OpenCV and Matplotlib.
 
 <img width="382" height="443" alt="image" src="https://github.com/user-attachments/assets/e6a1ba75-88ce-4a0f-9d6c-c6e69af99f9e" />
 
-# 2. Image with a line drawn from the top-left to the bottom-right.
+### 2. Image with a line drawn from the top-left to the bottom-right.
 
 <img width="381" height="447" alt="image" src="https://github.com/user-attachments/assets/56a70127-5cb1-4f99-b874-e857e93a739c" />
 
 
-# 3. Image with a circle at the center.
+### 3. Image with a circle at the center.
 
 <img width="388" height="445" alt="image" src="https://github.com/user-attachments/assets/ec97b723-c346-4227-a190-fb0f1cfb07c2" />
 
 
-# 4. Image with a rectangle around its boundary.
+### 4. Image with a rectangle around its boundary.
 
 <img width="378" height="443" alt="image" src="https://github.com/user-attachments/assets/a0251a09-b99e-4115-8881-55c366d326ec" />
 
 
-#5. Image with the text "OpenCV Drawing".
+### 5. Image with the text "OpenCV Drawing".
 
 <img width="398" height="443" alt="image" src="https://github.com/user-attachments/assets/47b7d8d9-9907-4979-92e4-f06c9a74aeed" />
 
 
-# 6. HSV, grayscale, and YCrCb color space conversions.
+### 6. HSV, grayscale, and YCrCb color space conversions.
 
 <img width="403" height="437" alt="image" src="https://github.com/user-attachments/assets/c0b07d08-86c9-4c32-b192-1a55e4d1985f" />
 
@@ -361,32 +361,32 @@ plt.axis("on")
 <img width="407" height="446" alt="image" src="https://github.com/user-attachments/assets/8fff4345-aee1-4005-832d-612c459f2b77" />
 
 
-# 7. Image converted from HSV back to RGB.
+### 7. Image converted from HSV back to RGB.
 
 <img width="396" height="441" alt="image" src="https://github.com/user-attachments/assets/67c3359b-ff5d-41af-80b8-d51e52db15ea" />
 
 
-# 8. Pixel value displayed and a white region added to the image.
+### 8. Pixel value displayed and a white region added to the image.
 
 <img width="408" height="445" alt="image" src="https://github.com/user-attachments/assets/5adf3342-b216-410b-9491-f27e96c4a24b" />
 
 
-# 9. Image resized to half its original dimensions.
+### 9. Image resized to half its original dimensions.
 
 <img width="595" height="453" alt="image" src="https://github.com/user-attachments/assets/48b899c3-5a61-46e5-81d5-871d51972e54" />
 
 
-# 10. Cropped region of interest displayed.
+### 10. Cropped region of interest displayed.
 
 <img width="487" height="447" alt="image" src="https://github.com/user-attachments/assets/36e40605-2c5f-4841-89d0-852623498746" />
 
 
-# 11. Horizontally flipped image displayed.
+### 11. Horizontally flipped image displayed.
 
 <img width="420" height="443" alt="image" src="https://github.com/user-attachments/assets/f394400e-bfaf-4485-8619-73c65518dd02" />
 
 
-# 12. Vertically flipped image displayed.
+### 12. Vertically flipped image displayed.
 
 <img width="392" height="446" alt="image" src="https://github.com/user-attachments/assets/f618a511-e8d7-482d-b3a1-97bed4f7069b" />
 
